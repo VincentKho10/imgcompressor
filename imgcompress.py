@@ -21,3 +21,4 @@ if __name__ == '__main__':
     else:
         processImage(file_path[1])
     input('press any key...')
+    return
